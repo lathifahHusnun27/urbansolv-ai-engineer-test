@@ -414,7 +414,7 @@ with sync_playwright() as p:
         encoding="utf-8"
     )
 
-    print("\nData berhasil disimpan ke data/raw_data_tanpa_duplikat.csv")
+    print("\nData berhasil disimpan ke data/raw_data.csv")
     print("Jumlah data berhasil:", len(df))
 
     #    print("\n=== HASIL DETAIL ===")
