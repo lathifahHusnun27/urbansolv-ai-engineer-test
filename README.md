@@ -76,11 +76,11 @@ The raw dataset was cleaned and standardized before being used by the API and AI
 
 The preprocessing includes:
 
-* Removing duplicate businesses based on **name and address**
+* Removing duplicate businesses based on name and address
 * Handling missing values
 * Standardizing column names
-* Extracting **Kecamatan**
-* Extracting **Kelurahan**
+* Extracting Kecamatan
+* Extracting Kelurahan
 * Cleaning and standardizing relevant data fields
 * Saving the final processed dataset as CSV
 
